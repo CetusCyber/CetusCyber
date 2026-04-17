@@ -34,12 +34,6 @@ Dieses Profil zeigt einfache praktische Tech-Labs.
 
 
 
-# CetusCyber 🐋
-
-Arabic | [English](#english) | [Deutsch](#deutsch)
-
----
-
 ## العربية
 
 مرحبًا، أنا CetusCyber.
