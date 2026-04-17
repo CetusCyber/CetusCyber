@@ -1,5 +1,41 @@
 # CetusCyber 🐋
 
+[العربية](#العربية) | [English](#english) | [Deutsch](#deutsch)
+
+## Quick view
+
+This profile shows simple practical tech labs.
+
+- Al-Hoot = a laptop lab with Windows, Linux, tools, and local AI.
+- ZO = a mobile lab prototype with Termux, Ubuntu, security tools, and local AI.
+- This account documents real experiments in a clear and practical way.
+
+---
+
+## نظرة سريعة
+
+هذا الحساب يعرض مختبرات تقنية عملية بشكل بسيط.
+
+- الحوت = مختبر لابتوب يجمع بين Windows و Linux والأدوات والذكاء الاصطناعي المحلي.
+- ZO = نموذج مختبر على الهاتف باستخدام Termux و Ubuntu وأدوات الأمن والذكاء الاصطناعي المحلي.
+- هذا الحساب يوثق تجارب حقيقية بشكل واضح وعملي.
+
+---
+
+## Kurzer Überblick
+
+Dieses Profil zeigt einfache praktische Tech-Labs.
+
+- Al-Hoot = ein Laptop-Lab mit Windows, Linux, Tools und lokaler KI.
+- ZO = ein Mobile-Lab-Prototyp mit Termux, Ubuntu, Security-Tools und lokaler KI.
+- Dieses Konto dokumentiert reale Experimente auf eine klare und praktische Weise.
+
+---
+
+
+
+# CetusCyber 🐋
+
 Arabic | [English](#english) | [Deutsch](#deutsch)
 
 ---
