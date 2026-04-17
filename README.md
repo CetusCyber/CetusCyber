@@ -36,7 +36,7 @@ Dieses Profil zeigt einfache praktische Tech-Labs.
 
 ## العربية
 
-مرحبًا، أنا CetusCyber.
+مرحبًا،
 
 أنا مطور ومُنشئ مختبرات تقنية بشكل ذاتي، أعمل على بناء بيئات عملية على اللابتوب والهاتف تجمع بين Linux والأمن السيبراني وأدوات الصيانة والذكاء الاصطناعي المحلي.
 
@@ -62,7 +62,7 @@ Dieses Profil zeigt einfache praktische Tech-Labs.
 
 ## English
 
-Hi, I'm CetusCyber.
+Hi,
 
 I'm a self-taught builder creating practical laptop and mobile labs that combine Linux, cybersecurity, maintenance tools, and local AI.
 
@@ -88,7 +88,7 @@ I believe real labs do not start with perfect resources — they start with curi
 
 ## Deutsch
 
-Hallo, ich bin CetusCyber.
+Hallo,
 
 Ich bin ein autodidaktischer Entwickler und baue praktische Laptop- und Mobile-Labs, die Linux, Cybersicherheit, Wartungstools und lokale KI miteinander verbinden.
 
