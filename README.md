@@ -33,6 +33,12 @@ Dieses Profil zeigt einfache praktische Tech-Labs.
 ---
 
 
+## Screenshots
+
+![Al-Hoot AI and Kali environment]()
+![Al-Hoot toolkit and recovery structure]()
+
+
 
 ## العربية
 
