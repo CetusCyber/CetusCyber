@@ -33,19 +33,6 @@ Dieses Profil zeigt einfache praktische Tech-Labs.
 ---
 
 
-<h2>Screenshots</h2>
-
-<p>
-  <img src="<img width="1260" height="840" alt="al-hoot-ai-layer" src="https://github.com/user-attachments/assets/41110806-f0bb-41a5-bc1c-f8f093d00268" />
-" alt="Al-Hoot AI and Kali environment" width="900">
-</p>
-
-<p>
-  <img src="<img width="1260" height="840" alt="al-hoot-toolkit" src="https://github.com/user-attachments/assets/37ea887a-aeb7-49ba-98ef-834085aeab62" />
-" alt="Al-Hoot toolkit and recovery structure" width="900">
-</p>
-
-
 ## العربية
 
 مرحبًا،
