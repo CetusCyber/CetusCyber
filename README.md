@@ -6,33 +6,40 @@
 
 [العربية](#العربية) | [English](#english) | [Deutsch](#deutsch)
 
-## Quick view
+# 🌊 | The Deep Diver
 
-This profile shows simple practical tech labs.
-
-- Al-Hoot = a laptop lab with Windows, Linux, tools, and local AI.
-- ZO = a mobile lab prototype with Termux, Ubuntu, security tools, and local AI.
-- This account documents real experiments in a clear and practical way.
-
----
-
-## نظرة سريعة
-
-هذا الحساب يعرض مختبرات تقنية عملية بشكل بسيط.
-
-- الحوت = مختبر لابتوب يجمع بين Windows و Linux والأدوات والذكاء الاصطناعي المحلي.
-- ZO = نموذج مختبر على الهاتف باستخدام Termux و Ubuntu وأدوات الأمن والذكاء الاصطناعي المحلي.
-- هذا الحساب يوثق تجارب حقيقية بشكل واضح وعملي.
+> "في عالم الصفر والواحد، لا توجد حدود.. توجد فقط آفاق لم تُكتشف بعد."
+>
+> "In the world of 0s and 1s, there are no limits—only horizons yet to be discovered."
+>
+> "In der Welt von 0 und 1 gibt es keine Grenzen – nur Horizonte, die noch entdeckt werden müssen."
 
 ---
 
-## Kurzer Überblick
+### 🔱 The Philosophy | الفلسفة
+* Self-Taught & Independent: I don't follow the flock; I find the most efficient path through trial and deep exploration.
+* Low-Level Logic: Building and organizing systems from the ground up (0 & 1).
+* From Syria to the World: Real labs don't start with high resources; they start with curiosity and persistence.
 
-Dieses Profil zeigt einfache praktische Tech-Labs.
+---
 
-- Al-Hoot = ein Laptop-Lab mit Windows, Linux, Tools und lokaler KI.
-- ZO = ein Mobile-Lab-Prototyp mit Termux, Ubuntu, Security-Tools und lokaler KI.
-- Dieses Konto dokumentiert reale Experimente auf eine klare und praktische Weise.
+### 🛠 Active Labs | المختبرات الحالية
+
+#### 💻 [Al-Hoot – Integrated Laptop Lab](https://github.com/CetusCyber/al-hoot-laptop-lab)
+*A self-built fortress combining Windows 11 LTSC + AtlasOS, Ventoy, MediCat, WSL+Kali, and Local AI (Ollama).*
+* Focus: Deep Integration | Local AI | Security Hardening.
+
+#### 📱 [ZO Orchestrator – Phone Prototype](https://github.com/CetusCyber/ZO-phone-prototype)
+*Mobile lab prototype on Nothing 2a exploring Termux, Ubuntu (proot-distro), and NetHunter.*
+* Focus: Mobile Pentesting | Local LLMs on Edge devices.
+
+---
+
+### 🧪 Currently Exploring | ما أعمل عليه الآن
+* Edge AI: Local AI on limited hardware.
+* Hybrid Labs: Merging Windows, Linux, and Android into one security ecosystem.
+* Identity: Turning self-taught skills into a boundless digital presence.
+
 
 ---
 # Al-HOOT 💻
