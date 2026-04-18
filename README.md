@@ -65,6 +65,10 @@
 
 ---
 
+<img width="2519" height="1679" alt="image" src="https://github.com/user-attachments/assets/58781f9d-7aa7-41d8-b705-8769a0e034b8" />
+
+---
+
 # ZO 📱 (test on nothing 2a) 🚨
 
 
