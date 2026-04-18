@@ -35,7 +35,7 @@ Dieses Profil zeigt einfache praktische Tech-Labs.
 - Dieses Konto dokumentiert reale Experimente auf eine klare und praktische Weise.
 
 ---
-Al-HOOT
+Al-HOOT 💻
 
 
 <img width="1260" height="840" alt="al-hoot-toolkit" src="https://github.com/user-attachments/assets/6f38382d-4ce3-4c5b-bfd5-4ef2a070788b" />
@@ -47,6 +47,17 @@ Al-HOOT
 ---
 
 <img width="2519" height="1679" alt="image" src="https://github.com/user-attachments/assets/4b629871-43ad-4603-86d1-299ffbfd3adc" />
+
+---
+
+ZO 📱 (test on nothing 2a) 🚨
+
+
+<img width="1084" height="2412" alt="Screenshot_20260418-124934" src="https://github.com/user-attachments/assets/49f71f4a-9d75-4a89-b33d-891510ce8077" />
+
+---
+
+<img width="1084" height="2412" alt="Screenshot_20260418-125142" src="https://github.com/user-attachments/assets/b1e570fe-e653-44b0-b37d-7d06ae46842a" />
 
 ---
 
