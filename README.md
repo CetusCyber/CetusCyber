@@ -42,6 +42,14 @@
 
 
 ---
+
+### 📡 Tactical Hardware
+* Flipper Zero (MnM Optimized): Running Momentum Firmware for advanced RF manipulation, NFC research, and boundless signal auditing.
+* WiFi Dev Board: Focused on stealth network analysis, deauth testing, and evil twin prototyping.
+* HID & Mouse Jacking: Exploiting 2.4GHz vulnerabilities using custom-built boards to demonstrate peripheral hijacking.
+
+---
+
 # Al-HOOT 💻
 
 
