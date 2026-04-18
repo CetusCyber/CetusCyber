@@ -16,14 +16,14 @@
 
 ---
 
-### 🔱 The Philosophy | الفلسفة
+### 🔱 The Philosophy 
 * Self-Taught & Independent: I don't follow the flock; I find the most efficient path through trial and deep exploration.
 * Low-Level Logic: Building and organizing systems from the ground up (0 & 1).
 * From Syria to the World: Real labs don't start with high resources; they start with curiosity and persistence.
 
 ---
 
-### 🛠 Active Labs | المختبرات الحالية
+### 🛠 Active Labs 
 
 #### 💻 [Al-Hoot – Integrated Laptop Lab](https://github.com/CetusCyber/al-hoot-laptop-lab)
 *A self-built fortress combining Windows 11 LTSC + AtlasOS, Ventoy, MediCat, WSL+Kali, and Local AI (Ollama).*
@@ -35,7 +35,7 @@
 
 ---
 
-### 🧪 Currently Exploring | ما أعمل عليه الآن
+### 🧪 Currently Exploring 
 * Edge AI: Local AI on limited hardware.
 * Hybrid Labs: Merging Windows, Linux, and Android into one security ecosystem.
 * Identity: Turning self-taught skills into a boundless digital presence.
