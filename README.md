@@ -1,5 +1,9 @@
 # CetusCyber 🐋
 
+<img width="1243" height="564" alt="5411324589129798441" src="https://github.com/user-attachments/assets/7325af86-e476-42d1-b2b8-6e5946661daa" />
+
+
+
 [العربية](#العربية) | [English](#english) | [Deutsch](#deutsch)
 
 ## Quick view
