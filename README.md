@@ -33,6 +33,14 @@ Dieses Profil zeigt einfache praktische Tech-Labs.
 ---
 
 
+<img width="1260" height="840" alt="al-hoot-toolkit" src="https://github.com/user-attachments/assets/6f38382d-4ce3-4c5b-bfd5-4ef2a070788b" />
+
+---
+
+<img width="1260" height="840" alt="al-hoot-ai-layer" src="https://github.com/user-attachments/assets/72b767d1-b2cd-45cc-8554-e436ea2fe4a7" />
+
+
+
 ## العربية
 
 مرحبًا،
