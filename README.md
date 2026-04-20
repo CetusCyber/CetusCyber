@@ -8,7 +8,7 @@
 
 # 🌊 | The Deep Diver
 
-> "في عالم الصفر والواحد، لا توجد حدود.. توجد فقط آفاق لم تُكتشف بعد."
+> "في عالم الصفر والواحد، لا توجد حدود .. توجد فقط آفاق لم تُكتشف بعد."
 >
 > "In the world of 0s and 1s, there are no limits—only horizons yet to be discovered."
 >
