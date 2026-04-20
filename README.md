@@ -6,7 +6,7 @@
 
 [العربية](#العربية) | [English](#english) | [Deutsch](#deutsch)
 
-# 🌊 | The Deep Diver
+# 🌊🐳| The Deep Diver 
 
 > "في عالم الصفر والواحد، لا توجد حدود .. توجد فقط آفاق لم تُكتشف بعد."
 >
