@@ -23,6 +23,29 @@
 
 ---
 
+
+```text
+CetusCyber Ecosystem
+│
+├─ Al‑Hoot Lab (Laptop Fortress)
+│  ├─ Windows 11 LTSC + AtlasOS
+│  ├─ WSL2 + Kali (Everything)
+│  ├─ WSA (Android Subsystem)
+│  ├─ Windows Sandbox
+│  └─ Local AI (Ollama on WSL)
+│
+├─ ZO Orchestrator (Mobile Prototype)
+│  ├─ Android + Termux
+│  ├─ Ubuntu (proot-distro)
+│  ├─ Local LLMs (Ollama)
+│  └─ NetHunter Environment
+│
+└─ Tactical Hardware (RF / WiFi / HID)
+   ├─ Flipper Zero (Momentum Firmware)
+   ├─ WiFi Dev Board (stealth analysis / evil twin)
+   └─ HID / Mouse Jacking (2.4GHz peripheral attacks)
+````
+
 ### 🛠 Active Labs 
 
 #### 💻 [Al-Hoot – Integrated Laptop Lab](https://github.com/CetusCyber/al-hoot-laptop-lab)
