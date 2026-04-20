@@ -94,14 +94,17 @@ CetusCyber Ecosystem
 
 # ZO 📱 (test on nothing 2a) 🚨
 
+---
 
-<img width="1084" height="2412" alt="Screenshot_20260418-124934" src="https://github.com/user-attachments/assets/49f71f4a-9d75-4a89-b33d-891510ce8077" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49f71f4a-9d75-4a89-b33d-891510ce8077"
+       alt="ZO test on Nothing 2a - screen 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b1e570fe-e653-44b0-b37d-7d06ae46842a"
+       alt="ZO test on Nothing 2a - screen 2" width="45%" />
+</p>
 
 ---
 
-<img width="1084" height="2412" alt="Screenshot_20260418-125142" src="https://github.com/user-attachments/assets/b1e570fe-e653-44b0-b37d-7d06ae46842a" />
-
----
 
 
 ## العربية
