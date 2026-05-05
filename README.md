@@ -1,5 +1,20 @@
 # CetusCyber 
 
+<div align="center">
+
+# 🐋 | Mohammad Algheda 
+
+> **نحن أقوى معاً.. الحوت ينطلق من الشحيل، ريف دير الزور!** 🔥☠️🐉🇸🇾🚀⚖️
+> 
+> **Stronger Together... The Whale Launches from Al-Shuhail, Rural Deir ez-Zor!**
+> 
+> **Gemeinsam sind wir stärker... Der Wal bricht aus Al-Shuhail auf!**
+
+---
+
+</div>
+---
+
 <img width="1243" height="564" alt="5411324589129798441" src="https://github.com/user-attachments/assets/7325af86-e476-42d1-b2b8-6e5946661daa" />
 
 
