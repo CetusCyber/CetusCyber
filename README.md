@@ -1,5 +1,12 @@
 # CetusCyber 
 
+> ### **"Wir stehen immer an der Seite der Unterdrückten, wo auch immer sie sind. Freiheit für Palästina! Die IDF und dieser löchrige Verein können mich mal."**
+>
+<p align="center">
+  <ins><b>"نحن مع المظلومين أينما كانوا، الحرية لفلسطين! 🇵🇸"</b></ins>
+</p>
+
+
 <div align="center">
 
 "Der Zündfunke für den Fortschritt"
