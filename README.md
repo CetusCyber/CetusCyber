@@ -14,7 +14,7 @@
   | Mohammad Algheda | 
   
   🐋🐉☠️🔥
-> **نحن أقوى معاً .. الحوت ينطلق من الشحيل، ريف دير الزور!** 
+> **نحن أقوى معاً .. الحوت ينطلق من ريف دير الزور!** 
 > 
 > **Stronger Together ... The Whale Launches from Al-Shuhail, Rural Deir ez-Zor!**
 > 
